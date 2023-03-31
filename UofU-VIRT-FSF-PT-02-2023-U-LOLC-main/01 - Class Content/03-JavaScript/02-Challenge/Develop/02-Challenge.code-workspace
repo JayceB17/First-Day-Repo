@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../02-Advanced-CSS/02-Challenge"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "02-Challenge",
+		"liveServer.settings.port": 5501
+	}
+}
